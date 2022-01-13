@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623067493 source:c:\users\patrick\desktop\projects c++\alturas\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

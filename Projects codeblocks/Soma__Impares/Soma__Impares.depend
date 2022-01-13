@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622114586 source:c:\users\patrick\desktop\project c-c++\soma__impares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

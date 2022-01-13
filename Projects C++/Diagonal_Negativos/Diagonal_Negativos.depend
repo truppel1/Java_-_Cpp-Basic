@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623068927 source:c:\users\patrick\desktop\projects c++\diagonal_negativos\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

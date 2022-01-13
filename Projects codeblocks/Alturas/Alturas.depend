@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622419145 source:c:\users\patrick\desktop\project c-c++\alturas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

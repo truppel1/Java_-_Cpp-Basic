@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621967769 source:c:\users\patrick\desktop\project c-c++\media_idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

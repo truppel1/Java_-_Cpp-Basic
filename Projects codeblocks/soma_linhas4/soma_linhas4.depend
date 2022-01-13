@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622549468 source:c:\users\patrick\desktop\project c-c++\soma_linhas4\main.c
+	<stdio.h>
+	<stdlib.h>
+

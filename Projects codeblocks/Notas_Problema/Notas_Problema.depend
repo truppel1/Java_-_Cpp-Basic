@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621796389 source:c:\users\patrick\desktop\project c-c++\notas_problema\main.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621793689 source:c:\users\patrick\desktop\project c-c++\nomes e idades\main.c
+	<stdio.h>
+	<string.h>
+
