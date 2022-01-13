@@ -1,0 +1,13 @@
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.exe
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.deps.json
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.runtimeconfig.json
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.runtimeconfig.dev.json
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.dll
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.pdb
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.dll
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.pdb
+C:\Users\Patrick\source\repos\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.genruntimeconfig.cache

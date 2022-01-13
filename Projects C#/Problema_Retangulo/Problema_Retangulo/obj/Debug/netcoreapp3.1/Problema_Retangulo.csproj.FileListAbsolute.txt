@@ -1,0 +1,13 @@
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.exe
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.deps.json
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.runtimeconfig.json
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.runtimeconfig.dev.json
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.dll
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.pdb
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.dll
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.pdb
+C:\Users\Patrick\Desktop\Projects C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.genruntimeconfig.cache

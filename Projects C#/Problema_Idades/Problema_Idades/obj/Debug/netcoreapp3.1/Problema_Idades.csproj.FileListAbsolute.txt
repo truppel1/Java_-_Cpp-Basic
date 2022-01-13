@@ -1,0 +1,13 @@
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.exe
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.deps.json
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.runtimeconfig.json
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.runtimeconfig.dev.json
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.dll
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.pdb
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.dll
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.pdb
+C:\Users\Patrick\Desktop\Projects C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.genruntimeconfig.cache

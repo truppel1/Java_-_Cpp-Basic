@@ -1,0 +1,13 @@
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.exe
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.deps.json
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.runtimeconfig.json
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.runtimeconfig.dev.json
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.dll
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.pdb
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.dll
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.pdb
+C:\Users\Patrick\source\repos\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.genruntimeconfig.cache
